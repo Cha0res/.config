@@ -1,0 +1,10 @@
+.DS_Store
+/clash
+/iterm2
+/raycast
+/yarn
+
+!/fish/config.fish
+!/fish/conf.d/
+!/fish/conf.d/**
+/fish/
