@@ -4,7 +4,6 @@
 /raycast
 /yarn
 
-!/fish/config.fish
-!/fish/conf.d/
-!/fish/conf.d/**
+!/fish/conf.d/abbres.fish
+!/fish/conf.d/env.fish
 /fish/
